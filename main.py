@@ -7,7 +7,7 @@ from google import genai
 # -----------------------------
 # STEP 0 — Gemini Setup
 # -----------------------------
-client = genai.Client(api_key="AIzaSyB5DfjsaM6VDstPKPmORzMa3Rof-b4VEqM")
+client = genai.Client(api_key="API_KEY")
 
 # -----------------------------
 # STEP 1 — Load PDF
